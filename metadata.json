@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Gemi-une Conceptual Catalyst-ni Realis Posit Actuating Repeatable Novel Creative Instances",
+  "description": "A living, creative partner that uses Gemini to catalyze new realities from your ideas. It's an emotional, multi-modal interface for designing what's next.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
